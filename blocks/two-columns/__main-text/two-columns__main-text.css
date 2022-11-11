@@ -3,5 +3,8 @@
   width: 80%;
   min-width: 784px;
   margin: 0;
-  display: block;
+  display: flex;
+  gap: 30px;
+  flex-direction: column;
+  flex-wrap: nowrap;
 }
